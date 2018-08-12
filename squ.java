@@ -3,7 +3,7 @@ public class squ{
 public static void main(String ar[]){
 Scanner scan=new Scanner(System.in);
 int n=scan.nextInt();
-int i,sum=0;
+int a,i,sum=0;
 int b[]=new int[50];
 String s=Integer.toString(n);
 for(i=0;i<s.length();i++){
